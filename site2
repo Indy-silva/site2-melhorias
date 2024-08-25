@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <!--A linha abaixo faz com que no site tenha toda uma linha no site-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <title>Análise e Desenvolvimento de Sistemas</title>
+    <style>
+        body{background-image: linear-gradient(to right,#EBDFBD, #E5D8D2, #C7DCDF);
+        font-size: 15px;}
+        p{text-align: justify;}
+        img{text-align: center;}
+        h1,h2{color: rgb(2, 17, 23);
+        font-family:Verdana, Geneva, Tahoma, sans-serif}
+        p{font-family: Arial, Helvetica, sans-serif;}
+        h1{text-align: center;}
+        h2,h3{
+            background-color: #B2BDF5;}
+        #dov{
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1>Entendendo ADS</h1>
+    <header>
+        <div id ="dov">
+            <img id="img-logo" src="img/adss.png" >
+        </div>
+    </header>
+    <hr>
+    <h2>Introdução</h2>
+    <h3>O que seria Análise e Desenvolvimento de sistemas?  &#x1F914</h3>
+    <p>Nessa carreira, o profissional tem como foco a análise e o desenvolvimento de softwares e programas. Pode trabalhar também com o mapeamento de processos e modelagem de dados. Os analistas de sistemas também podem desenvolver estudos e implementar sistemas</p>
+    <h3>Dúvidas recorrentes: Analista e desenvolvedor: qual a diferença?</h3>
+    <p>Os analistas trabalham interagindo com os clientes para entender as suas necessidades e como a empresa pode resolvê-las. Já o desenvolvedor é o responsável por elaborar as soluções e desenvolvê-las. É interessante pontuar que esses dois profissionais geralmente atuam em conjunto.
+
+        Sendo assim, o curso de Análise e Desenvolvimento de Sistemas abre uma série de possibilidades profissionais. Os graduados têm um papel decisivo nas empresas atualmente, pois atuam no gerenciamento e manutenção desse setor. </p>
+    <h2>Qual área seguir?</h3>
+    <h3>Full-stack Developer:</h3>
+    <p>A ênfase em Full-Stack Developer promove no discente a formação completa para que atue nas mais diversas atividades relacionadas ao desenvolvimento tanto do Front-End como do Back-End. É um profissional muito valorizado no mercado com conhecimento em diferentes linguagens e tecnologias.</p>
+    <h3>Mobile Developer:</h3>
+    <p>A ênfase em Mobile Developer promoverá no aluno o conhecimento e domínio necessário para se tornar um desenvolvedor de aplicações e sistemas para dispositivos móveis. É um mercado em grande expansão.</p>
+    
+    <h2>Grade Curricular &#x1F4D4</h2>
+    <p>Durante o curso verá matérias como: <br> <li>Aplicações para Internet</li>
+        <li>Arquitetura de Computadores <br></li>
+        <li>Banco de Dados <br></li>
+        <li>Big Data <br></li>
+        <li>Computação em Nuvem <br></li>
+        <li>Desenvolvimento Web em Html5, Css, Javascript e Php</li>
+        <li>Direito Cibernético <br></li>
+        <li>Empreendedorismo <br></li>
+        <li>Engenharia de Software <br></li>
+        <li>Fundamentos de Redes de Computadores <br></li>
+        <li>Introdução à Programação Estruturada em C <br></li>
+        Entre outras.
+
+        
+    <h2>Como é o mercado de trabalho? &#x1F911</h2>
+    <p>O mercado de trabalho em tecnologia tem crescido no Brasil. O setor teve um faturamento de R$ 597,8 bilhões durante o ano de 2021, de acordo com a Brasscom, Associação das Empresas de Tecnologia da Informação e Comunicação (TIC) e de Tecnologias Digitais.<br>
+        Em termos de PIB, esse faturamento representa cerca de 6,9%. E a tendência é de mais crescimento. Hoje, as empresas necessitam cada vez mais de profissionais com alto repertório em criação e manutenção de sistemas para garantir inovação em seu trabalho.<br>
+        Além disso, atividades básicas, como transações bancárias, educação e comunicação, têm levado cada vez mais seus processos para as ferramentas digitais, que permitem ampliar o público e a acessibilidade. Essa transformação, porém, exige ainda mais conhecimento e pesquisa.
+        Por conta das mudanças socioeconômicas, o setor está com uma lacuna de contratação: também de acordo com a Brasscom, o déficit de profissionais deve chegar a cerca de 800 mil até 2025.<br>
+        Na prática, o mercado tem grande demanda, mas exige profissionais qualificados e com repertório diverso.
+        Em termos de remuneração, o salário de analista de sistemas chega a, em média, de R$ 6.000 por mês, segundo a GlassDoor. <br>
+        O ponto positivo é que essa remuneração representa profissionais juniores, com altas oportunidades de crescimento na carreira e especialização no futuro, com salários acima de R$ 15.110.</p>
+    <h2>Duração do curso &#x1F557</h2>
+    <p>O curso em média tem duração de 5 semestre, ou seja, 2 anos e meio.</p>
+    <h2>Mais detalhes sobre o curso: </h2>
+    
+    <video src="midias/videoplayback.mp4" type="video/mp4"
+    controls width="600"
+    autoplay muted>
+    </video>
+
+    <hr>
+    <br> 
+    <h3>Todos os direitos reservados.</h3>
+    
+</body>
+</html>
